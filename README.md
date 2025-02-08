@@ -1,5 +1,5 @@
-# Spotify-Clone
-Spotify Clone is a web application developed using HTML, CSS, and JavaScript that aims to recreate the popular music streaming platform, Spotify. This project serves as a learning exercise and a demonstration of front-end development skills.
+# Ethio-Spotify
+Ethio Spotify is a web application developed using HTML, CSS, and JavaScript that aims to recreate the popular music streaming platform, Spotify. This project serves as a learning exercise and a demonstration of front-end development skills.
 
 ## Features: 
 - 1.User-friendly interface: The application provides an intuitive and visually appealing interface, mimicking the design and layout of Spotify, allowing users to easily navigate and interact with the various features.
